@@ -1,0 +1,86 @@
+{
+    "student":[
+        {
+            "name":"Kristina",
+            "lastName":"Kuzmic",
+            "age": 21,
+            "indexNumber":"0083/2020",
+            "email":"fon1@bla.com"
+        },
+        {
+            "name":"Petar",
+            "lastName":"Peric",
+            "age": 20,
+            "indexNumber":"0080/2020",
+            "email":"fon2@bla.com"
+        },
+        {
+            "name":"Nikola",
+            "lastName":"Nikolic",
+            "age": 19,
+            "indexNumber":"0003/2021",
+            "email":"fon3@bla.com"
+        },
+        {
+            "name":"Lazar",
+            "lastName":"Lazic",
+            "age": 22,
+            "indexNumber":"0001/2019",
+            "email":"fon4@bla.com"
+        },
+        {
+            "name":"Marko",
+            "lastName":"Markovic",
+            "age": 21,
+            "indexNumber":"0222/2020",
+            "email":"fon5@bla.com"
+        }
+    ],
+    "profesor":[
+        {
+            "name":"Dragana",
+            "lastName":"Kragulj",
+            "className":"Ekonomija",
+            "age": 45
+        },
+        {
+            "name":"Bojan",
+            "lastName":"Marceta",
+            "className":"RMT",
+            "age": 40
+        },
+        {
+            "name":"Milan",
+            "lastName":"Radojicic",
+            "className":"Statistika",
+            "age": 30
+        }
+    ],
+    "predmet":[
+        {
+            "name":"Statistika",
+            "numberStudents": 200,
+            "grade": 8
+        },
+        {
+            "name":"RMT",
+            "numberStudents": 20,
+            "grade": 9
+        },
+        {
+            "name":"Ekonomija",
+            "numberStudents": 44,
+            "grade": 10
+        },
+        {
+            "name":"P1",
+            "numberStudents": 196,
+            "grade": 7
+        },
+        {
+            "name":"AROS",
+            "numberStudents": 103,
+            "grade": 7
+        }
+    ]
+}
